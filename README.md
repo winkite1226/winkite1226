@@ -2,15 +2,12 @@
 
 ### Hi there 👋
 
-
-**winkite1226/winkite1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3>Introduce winkite1226</h3>
 <li>🔭 I'm currently studying Computer Science at Sookmyung Woman's University.</li>
 <li>🌱 I'm currently learning React, Unity, Machine Learning.</li>
 <li>📫 How to reach me : winkite1226@gmail.com</li>
 
-<h3>Tech Stack</h3>
+<h3>📚 Tech Stack 📚</h3>
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -22,14 +19,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
-<h3></h3>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3>🌈 Follow Me 🌈</h3>
+<div align="center">
+  <a href="https://winkite1226.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Vimeo&logoColor=white&link=https://winkite1226.tistory.com/"/></a>&nbsp
+  <a href="mailto:winkite1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=winkite1226@gmail.com"/></a>
+</div>

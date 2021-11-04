@@ -1,10 +1,16 @@
-<h1 align="center">Winkite1226</h1>
+<h1 align="center">winkite1226</h1>
 
 ### Hi there 👋
 
 <!--
 **winkite1226/winkite1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h3>Introduce winkite1226</h3>
+🔭 I'm currently studying Computer Science at Sookmyung Woman's University.
+🌱 I'm currently learning React, Unity, Machine Learning.
+📫 How to reach me : winkite1226@gmail.com
+<h3>Tech Stack</h3>
+<h3></h3>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

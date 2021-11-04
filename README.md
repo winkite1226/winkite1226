@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+
 <h3 align="center">Introduce winkite1226</h3>
 <div align="center">
   <p>🔭 I'm currently studying Computer Science at Sookmyung Woman's University.</p>

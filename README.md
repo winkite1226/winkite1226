@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi there 👋</h3>                    
 
-<h3 align="center">Introduce winkite1226</h3>
+<h3 align="center">✨ Introduce winkite1226 ✨</h3>
 <div align="center">
   <p>🔭 I'm currently studying Computer Science at Sookmyung Woman's University.</p>
   <p>🌱 I'm currently learning React, Unity, Machine Learning.</p>

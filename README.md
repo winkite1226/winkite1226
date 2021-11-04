@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=winkite1226&fontSize=90" />
 
-### Hi there 👋                    
+<h3 align="center">Hi there 👋</h3>                    
 
 <h3 align="center">Introduce winkite1226</h3>
 <div align="center">

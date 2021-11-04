@@ -3,11 +3,11 @@
 ### Hi there 👋
 
 <h3 align="center">Introduce winkite1226</h3>
-<ul align="center">
-  <li>🔭 I'm currently studying Computer Science at Sookmyung Woman's University.</li>
-  <li>🌱 I'm currently learning React, Unity, Machine Learning.</li>
-  <li>📫 How to reach me : winkite1226@gmail.com</li>
-</ul>
+<div align="center">
+  <p>🔭 I'm currently studying Computer Science at Sookmyung Woman's University.</p>
+  <p>🌱 I'm currently learning React, Unity, Machine Learning.</p>
+  <p>📫 How to reach me : winkite1226@gmail.com</p>
+</div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">

@@ -21,6 +21,6 @@
 </div>
 <h3>🌈 Follow Me 🌈</h3>
 <div align="center">
-  <a href="https://winkite1226.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Vimeo&logoColor=white&link=https://winkite1226.tistory.com/"/></a>&nbsp
+  <a href="https://winkite1226.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF5722?style=flat-square&logo=Vimeo&logoColor=white&link=https://winkite1226.tistory.com/"/></a>&nbsp
   <a href="mailto:winkite1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=winkite1226@gmail.com"/></a>
 </div>

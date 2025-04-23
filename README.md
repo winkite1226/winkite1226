@@ -4,7 +4,7 @@
 
 <h3 align="center">✨ Introduce winkite1226 ✨</h3>
 <div align="center">
-  <p>🔭 I'm currently studying Computer Science at Sookmyung Woman's University.</p>
+  <p>🔭 I majored in Computer Science.</p>
   <p>🌱 I'm currently learning Spring Boot, MySQL, AWS.</p>
   <p>📫 How to reach me : winkite1226@gmail.com</p>
 </div>
